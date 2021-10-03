@@ -1,0 +1,16 @@
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\bin\Debug\netcoreapp3.1\StaticLibrary.dll
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\bin\Debug\netcoreapp3.1\StaticLibrary.pdb
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CopyComplete
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

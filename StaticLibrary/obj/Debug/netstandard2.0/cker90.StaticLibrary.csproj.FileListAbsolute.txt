@@ -1,0 +1,9 @@
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\bin\Debug\netstandard2.0\cker90.StaticLibrary.deps.json
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\bin\Debug\netstandard2.0\cker90.StaticLibrary.dll
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\bin\Debug\netstandard2.0\cker90.StaticLibrary.pdb
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\obj\Debug\netstandard2.0\cker90.StaticLibrary.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\obj\Debug\netstandard2.0\cker90.StaticLibrary.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\obj\Debug\netstandard2.0\cker90.StaticLibrary.AssemblyInfo.cs
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\obj\Debug\netstandard2.0\cker90.StaticLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\obj\Debug\netstandard2.0\cker90.StaticLibrary.dll
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\StaticLibrary\obj\Debug\netstandard2.0\cker90.StaticLibrary.pdb
