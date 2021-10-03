@@ -4,3 +4,4 @@ VSCODE
 Git 2.33
 cmd config git information
 git auth to vscode 
+vscode-solution-explorer
