@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7kKYQdb7OOm8PA5KYeGgrNjVjQG+ZQC+GKkONhEwpHTTsGwIVHoKffkqPLpVVQmOhByk659Uy9wNDV2sqmp+Cg==",
+  "dgSpecHash": "L7geEkWPyO+L9zuHNXAiL6TU93uTdQB8RIScxUVi/OjCZGG5OCQePyoOoYRA2WGrPC/9cTkwC217Giu0H1vnvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj",
+  "projectFilePath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
