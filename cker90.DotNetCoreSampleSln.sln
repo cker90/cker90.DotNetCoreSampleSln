@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticLibrary", "StaticLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{5A413DCB-1E0F-439D-A027-CA18D5113B31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A1679AE0-A22F-4712-B111-90DB0FA8DF33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{5A413DCB-1E0F-439D-A027-CA18D5113B31}.Release|x64.Build.0 = Release|Any CPU
 		{5A413DCB-1E0F-439D-A027-CA18D5113B31}.Release|x86.ActiveCfg = Release|Any CPU
 		{5A413DCB-1E0F-439D-A027-CA18D5113B31}.Release|x86.Build.0 = Release|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Debug|x64.Build.0 = Debug|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Debug|x86.Build.0 = Debug|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Release|x64.ActiveCfg = Release|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Release|x64.Build.0 = Release|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Release|x86.ActiveCfg = Release|Any CPU
+		{A1679AE0-A22F-4712-B111-90DB0FA8DF33}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
