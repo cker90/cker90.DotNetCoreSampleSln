@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTests", "XUnitTests\XUnitTests.csproj", "{408C1900-720A-4EB0-9099-CF754B45114D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{68F263B4-171F-40D1-A68C-7C678E3F0CED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{408C1900-720A-4EB0-9099-CF754B45114D}.Release|x64.Build.0 = Release|Any CPU
 		{408C1900-720A-4EB0-9099-CF754B45114D}.Release|x86.ActiveCfg = Release|Any CPU
 		{408C1900-720A-4EB0-9099-CF754B45114D}.Release|x86.Build.0 = Release|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Debug|x64.Build.0 = Debug|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Debug|x86.Build.0 = Debug|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Release|x64.ActiveCfg = Release|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Release|x64.Build.0 = Release|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Release|x86.ActiveCfg = Release|Any CPU
+		{68F263B4-171F-40D1-A68C-7C678E3F0CED}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
