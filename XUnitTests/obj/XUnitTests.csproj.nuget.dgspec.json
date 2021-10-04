@@ -4,14 +4,14 @@
     "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj": {
+    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj",
         "projectName": "StaticLibrary",
-        "projectPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj",
+        "projectPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\obj\\",
+        "outputPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj": {
-                "projectPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj"
+              "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj": {
+                "projectPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj"
               }
             }
           }
