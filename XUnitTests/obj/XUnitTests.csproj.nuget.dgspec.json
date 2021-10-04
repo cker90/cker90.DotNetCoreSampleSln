@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj": {}
+    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj": {
+    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj",
+        "projectUniqueName": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj",
         "projectName": "XUnitTests",
-        "projectPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj",
+        "projectPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\XUnitTests.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\obj\\",
+        "outputPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\XUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
