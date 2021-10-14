@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj": {}
+    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj": {
+    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj",
+        "projectUniqueName": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj",
+        "projectPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\obj\\",
+        "outputPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
