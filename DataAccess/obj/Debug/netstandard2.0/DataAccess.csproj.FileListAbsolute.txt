@@ -1,0 +1,9 @@
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
