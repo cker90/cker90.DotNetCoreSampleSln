@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj": {}
+    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj": {}
   },
   "projects": {
     "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj": {
@@ -128,14 +128,14 @@
         }
       }
     },
-    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj": {
+    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

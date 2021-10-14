@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yMeQVW6ZavKh3p5gaDAy63y1lAk/hetAFID9ufpYkhtfuHv0FvQmpFgz5FpWE9LOmtyNwDBsY0PXNB3XpJoe3g==",
+  "dgSpecHash": "Hdk+gJuTIoOSY27wTqh2rAKp3mULJwC2RJ8J8ZIlhyfiEnOeQ0O2CpKe+Z9qKP/0yMMFpgRQG5iYBqq6Bc2Igw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

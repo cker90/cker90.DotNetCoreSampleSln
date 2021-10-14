@@ -8,6 +8,11 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using DataAccess;
+using Services.ProductService;
+using Microsoft.EntityFrameworkCore;
+using Entity.Table;
+using Arch.EntityFrameworkCore.UnitOfWork;
 
 namespace Web
 {
@@ -23,6 +28,13 @@ namespace Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<SampleContext>(options =>
+                options.UseMySql(Configuration.GetConnectionString("MySqlConnection")));//添加Mysql支持
+
+            services.AddUnitOfWork<SampleContext>();//添加UnitOfWork支持
+            services.AddScoped(typeof(IProductService), typeof(ProductService));//用ASP.NET Core自带依赖注入(DI)注入使用的类
+            
+
             services.AddControllersWithViews();
         }
 
