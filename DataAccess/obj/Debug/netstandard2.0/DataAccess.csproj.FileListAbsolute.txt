@@ -7,3 +7,6 @@ C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug
 C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\bin\Debug\netstandard2.0\Entity.dll
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\bin\Debug\netstandard2.0\Entity.pdb
+c:\Users\admin\Documents\Sources\cker90.DotNetCoreSampleSln\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
