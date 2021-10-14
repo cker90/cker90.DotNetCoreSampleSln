@@ -14,3 +14,4 @@ vscode-solution-explorer
 七、Web（model-view-control）
 八、实体层Entity
 Core DB表基础属性
+Table 实体Entity
