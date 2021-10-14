@@ -169,7 +169,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.UnitOfWork": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[3.1.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
