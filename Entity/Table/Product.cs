@@ -1,7 +1,7 @@
 using System;
 using Entity.Core;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+// using System.ComponentModel.DataAnnotations;
 using System.Text;
 namespace Entity.Table
 {
@@ -13,27 +13,27 @@ namespace Entity.Table
         /// <summary>
         /// 名称
         /// </summary>
-        [StringLength(20)]
-        [Required]
+        //[StringLength(20)]
+        // [Required]
         public string Name { get; set; }
 
         /// <summary>
         /// 描述
         /// </summary>
-        [StringLength(500)]
-        [Required]
+        // [StringLength(500)]
+        // [Required]
         public string Description { get; set; }
 
         /// <summary>
         /// 类别
         /// </summary>
-        [Range(1, int.MaxValue)]
+        // [Range(1, int.MaxValue)]
         public int Category { get; set; }
 
         /// <summary>
         /// 原价
         /// </summary>
-        [Required]
+        // [Required]
         public decimal Price { get; set; }
 
         /// <summary>

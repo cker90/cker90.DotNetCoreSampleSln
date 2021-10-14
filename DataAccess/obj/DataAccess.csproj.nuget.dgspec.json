@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj": {}
+    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj": {
+    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj",
+        "projectPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\obj\\",
+        "outputPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
