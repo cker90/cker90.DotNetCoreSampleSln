@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mSO1wJonSPm+rgTo44dhMpi/ctnijnhsDXN5fWJsaCol4SNLq0KO1yLmOWXaxJB9doZDD/HIP+1G5cxgZBbzoA==",
+  "dgSpecHash": "KbyMFG2pg3CIAVQq73qHE+NVJR9TIDEuww3NIH2k49dnw2kLKT+lTqyeovWOkAnMupFMEEeL2BPqwd9kykjKLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.componentmodel.annotations\\4.4.0\\system.componentmodel.annotations.4.4.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -14,7 +14,7 @@ namespace DataAccess
             //在此可对数据库连接字符串做加解密操作
         }
 
-        public DbSet<Product> Courses { get; set; }
+        public DbSet<Product> Products { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
