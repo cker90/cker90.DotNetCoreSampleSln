@@ -3544,8 +3544,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj": {
-              "projectPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj"
+            "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\StaticLibrary\\StaticLibrary.csproj"
             }
           }
         }
