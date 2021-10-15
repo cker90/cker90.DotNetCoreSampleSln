@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3bOtHkOx3cY+UrLxRZOFOpYgFSxLSSbVVuxSfbFgZBRy1Lr8zkAVQmPtlv/nY0cgzoHhkp82laNovdG04nvs9Q==",
+  "dgSpecHash": "mSO1wJonSPm+rgTo44dhMpi/ctnijnhsDXN5fWJsaCol4SNLq0KO1yLmOWXaxJB9doZDD/HIP+1G5cxgZBbzoA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
