@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\Web.csproj": {}
+    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\Web.csproj": {}
   },
   "projects": {
     "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\DataAccess\\DataAccess.csproj": {
@@ -192,14 +192,14 @@
         }
       }
     },
-    "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\Web.csproj": {
+    "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\Sources\\cker90.DotNetCoreSampleSln\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
